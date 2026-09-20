@@ -1,10 +1,5 @@
-# Python Environment Rules
-.venv/
-env/
-ENV/
-
-# Jupyter Notebook Rules
-.ipynb_checkpoints/
 
 # Course Document Rules
 *.pdf
+.ipynb_checkpoints/
+.venv/
